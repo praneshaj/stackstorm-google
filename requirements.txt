@@ -1,3 +1,4 @@
 requests
+google
 html5lib<=0.9999999
 -e git+https://github.com/Kami/Google-Search-API.git@stackstorm_patched#egg=Google-Search-API
